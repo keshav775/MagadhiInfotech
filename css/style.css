@@ -212,6 +212,10 @@ footer:hover{
     .main-one {
         padding: 10px;
         height: auto;
+        display: block;
+    }
+    .main-three{
+        display: block;
     }
     .left-section, .right-section {
         width: 100%;
@@ -237,6 +241,7 @@ footer:hover{
         font-size: 0.8rem;
         padding: 10px;
         height: auto;
+        display: block;
     }
     .main-two {
         padding: 10px;
