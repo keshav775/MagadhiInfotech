@@ -215,7 +215,6 @@ footer:hover{
         display: block;
     }
     .main-one .right-section{
-        margin-right: 15px;
         align-items: center;
     }
     .main-three{
@@ -248,7 +247,7 @@ footer:hover{
         display: block;
     }
     .main-one .right-section{
-        margin-right: 15px;
+        margin-right: 25px;
         align-items: center;
     }
     .main-two {
