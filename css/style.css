@@ -257,6 +257,10 @@ footer:hover{
         display: block;
         width: 100%;
         height: auto;
+        margin-left: 2px;
+    }
+    .main-three right-section{
+        font-size: 0.6px;
     }
     .card-img-top {
         height: 150px;
