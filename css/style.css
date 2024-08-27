@@ -242,13 +242,10 @@ footer:hover{
     }
     .main-one{
         font-size: 0.8rem;
-        padding: 10px;
         height: auto;
         display: block;
     }
     .main-one .right-section{
-        margin-right: 25px;
-        padding-right: 10px;
         align-items: center;
     }
     .main-two {
