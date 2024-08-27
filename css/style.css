@@ -248,9 +248,7 @@ footer:hover{
         
     }
     .main-one .right-section{
-        align-items: center;
-        width: 100%;
-        height: auto;
+        display: none;
     }
     .main-two {
         padding: 10px;
