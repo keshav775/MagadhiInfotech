@@ -214,6 +214,10 @@ footer:hover{
         height: auto;
         display: block;
     }
+    .main-one .right-section{
+        margin-right: 15px;
+        align-items: center;
+    }
     .main-three{
         display: block;
     }
@@ -242,6 +246,10 @@ footer:hover{
         padding: 10px;
         height: auto;
         display: block;
+    }
+    .main-one .right-section{
+        margin-right: 15px;
+        align-items: center;
     }
     .main-two {
         padding: 10px;
