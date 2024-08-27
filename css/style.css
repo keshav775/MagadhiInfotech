@@ -207,7 +207,6 @@ footer:hover{
     }
     .content #main-para {
         padding: 15px;
-        position: fixed;
 
     }
     .main-one {
@@ -239,15 +238,19 @@ footer:hover{
     }
     .content #main-para {
         font-size: 0.8rem;
-        padding: 10px;
+        margin: auto;
     }
     .main-one{
         font-size: 0.8rem;
         height: auto;
         display: block;
+        margin: auto;
+        
     }
     .main-one .right-section{
         align-items: center;
+        width: 100%;
+        height: auto;
     }
     .main-two {
         padding: 10px;
