@@ -145,8 +145,10 @@
             .hero p {
                 font-size: 1rem;
             }
-
-            .search-input {
-                width: 80%;
+            #coding-zone{
+                margin: 5px;
+                padding: 10px;
+                height: 400px;
             }
+
         }
